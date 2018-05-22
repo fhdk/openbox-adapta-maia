@@ -1,24 +1,24 @@
 #openbox themerc edited with obtheme
-border.color: #62808E
+border.color: #1ED1B1
 border.width: 1
-menu.border.color: #212B30
-menu.items.active.bg: flat solid
-menu.items.active.bg.color: #384449
-menu.items.active.text.color: #CFD8DC
-menu.items.bg: flat solid
-menu.items.bg.color: #28343A
-menu.items.disabled.text.color: #566067
+menu.border.color: #62808E
+menu.items.active.bg: Solid Flat
+menu.items.active.bg.color: #62808E
+menu.items.active.text.color: #1ED1B1
+menu.items.bg: Solid Flat
+menu.items.bg.color: #E0E2E3
+menu.items.disabled.text.color: #C1C4C6
 menu.items.font: shadow=n
-menu.items.text.color: #B9C2C7
+menu.items.text.color: #414C51
 menu.overlap: 0
 menu.overlap.x: -5
-menu.separator.color: #222D32
+menu.separator.color: #62808E
 menu.separator.padding.height: 4
 menu.separator.padding.width: 0
 menu.separator.width: 1
 menu.title.bg: Solid Flat
-menu.title.bg.color: #222D32
-menu.title.text.color: #006A78
+menu.title.bg.color: #62808E
+menu.title.text.color: #1ED1B1
 menu.title.text.font: shadow=n
 menu.title.text.justify: center
 osd.bg: flat solid
@@ -28,10 +28,10 @@ osd.hilight.bg: flat solid
 osd.hilight.bg.color: #4DB6AC
 osd.label.text.color: #CFD8DC
 osd.unhilight.bg: flat solid
-osd.unhilight.bg.color: #323D42
+osd.unhilight.bg.color: #364146
 padding.height: 5
 padding.width: 7
-window.active.border.color: #1ED1B1
+window.active.border.color: #16A085
 window.active.button.disabled.bg: flat solid
 window.active.button.disabled.bg.color: #222D32
 window.active.button.disabled.image.color: #555F64
@@ -62,7 +62,7 @@ window.active.title.bg.shadow: 0
 window.active.title.separator.color: #222D32
 window.client.padding.width: 0
 window.handle.width: 0
-window.inactive.border.color: #62808E
+window.inactive.border.color: #E0E2E3
 window.inactive.button.disabled.bg: flat solid
 window.inactive.button.disabled.bg.color: #222D32
 window.inactive.button.disabled.image.color: #3B464B
