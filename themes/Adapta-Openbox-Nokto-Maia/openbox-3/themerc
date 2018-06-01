@@ -3,7 +3,7 @@ border.color: #62808E
 border.width: 1
 menu.border.color: #16A085
 menu.items.active.bg: Solid Flat
-menu.items.active.bg.color: #16A085
+menu.items.active.bg.color: #4DB6AC
 menu.items.active.text.color: #222D32
 menu.items.bg: Solid Flat
 menu.items.bg.color: #222D32

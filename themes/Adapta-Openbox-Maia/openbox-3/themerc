@@ -17,7 +17,7 @@ menu.separator.padding.height: 4
 menu.separator.padding.width: 0
 menu.separator.width: 1
 menu.title.bg: Solid Flat
-menu.title.bg.color: #62808E
+menu.title.bg.color: #555F64
 menu.title.text.color: #1ED1B1
 menu.title.text.font: shadow=n
 menu.title.text.justify: center
